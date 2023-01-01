@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Java, DSA, System Design
 - 📫 How to reach me: byomkeshattruth@gmail.com
 - 😄 Pronouns: Deewana
+- Resume Link: https://drive.google.com/file/d/1J9kB1F9qO09zWc7w6ld3ozSxzuvNZL_3/view?usp=share_link
 -->
