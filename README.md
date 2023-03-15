@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any projects which can help me grow in learning curve(primarily in java fields)
 - 🤔 I’m looking out for SDE roles
 - 💬 Ask me about Java, DSA, System Design
+- 💬 Coding Profile :
+   -  HackerRank - https://www.hackerrank.com/byomkeshattruth
+   -  LeetCode   - https://leetcode.com/ByomkeshChoudhary/
 - 📫 How to reach me: byomkeshattruth@gmail.com
 - 😄 Pronouns: Deewana
 -->
